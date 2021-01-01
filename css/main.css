@@ -5,7 +5,8 @@ body {
 }
 nav ul, footer ul {
     font-family:'bahnschrift', 'Sans-Serif';
-    padding: 0px;
+    padding: 10px;
+    font-size: 13px;
     list-style: none;
     font-weight: bold;
 }

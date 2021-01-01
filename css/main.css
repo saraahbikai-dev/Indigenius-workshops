@@ -23,20 +23,20 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    text-align: center
+    text-align: center;
     
 }
 
 
 h2 {
-    font-size: 15px;
+    font-size: 10px;
 }
 
 p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
-    text-align: center
+    text-align: center;
     
 }
 

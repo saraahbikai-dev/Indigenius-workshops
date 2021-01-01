@@ -18,7 +18,8 @@ nav ul li, footer ul li {
 a {
     text-decoration: none;
     color: #775b3e;
-    font-size:15px
+    font-size:15px;
+    font-family: 'bahnschrift', 'Sans-Serif';
 }
 a:hover {
     text-decoration: underline;

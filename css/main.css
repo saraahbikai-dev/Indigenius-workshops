@@ -17,7 +17,7 @@ nav ul li, footer ul li {
 a {
     text-decoration: none;
     color: #775b3e;
-    font-size:10px
+    font-size:15px
 }
 a:hover {
     text-decoration: underline;
@@ -26,8 +26,9 @@ a:hover {
 
 h1 {
     font-size: 3em;
-    font-family:'bahnschrift', 'Helvetica','Sans-Serif';
+    font-family:'bahnschrift','Sans-Serif';
     text-align: center;
+    line-height: 1.6;
     
 }
 
@@ -36,6 +37,8 @@ h2 {
     font-size: 15px;
     padding: 30px;
     text-align: center;
+    font-family:'bahnschrift','Sans-Serif';
+    line-height: 1.6;
 }
 
 

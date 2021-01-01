@@ -29,8 +29,7 @@ h1 {
 
 
 h2 {
-    
-    font size: 15px;
+    font-size: 15px;
 }
 
 p {
@@ -38,7 +37,7 @@ p {
     line-height: 1.4em;
     color: #333;
     text-align: center
-   x 
+    
 }
 
 footer {

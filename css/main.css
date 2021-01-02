@@ -2,6 +2,7 @@ body {
     margin: 30px auto;
     width: 100%;
     background-color: #ffefcf;
+    margin: 10px auto;
 }
 nav ul, footer ul {
     font-family:'bahnschrift', 'Sans-Serif';
@@ -14,6 +15,7 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
+    
 }
 a {
     text-decoration: none;

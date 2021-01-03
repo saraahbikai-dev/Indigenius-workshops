@@ -19,6 +19,7 @@
   height: 200px; /* Should be removed. Only for demonstration */
   text-align: justify;
   column-gap: 20px;
+  
 }
 
 /* Clear floats after the columns */

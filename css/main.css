@@ -132,7 +132,7 @@ ul.posts li {
 
 .parallax {
   /* The image used */
-  background-image: url("img_parallax.jpg");
+  background-color: #000000;
 
   /* Set a specific height */
   height: 500px;

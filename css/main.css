@@ -117,3 +117,9 @@ ul.posts li {
   display: flex;
   flex-wrap: wrap;
 }
+
+
+.container {
+  height: 200px;
+  position: relative   
+}

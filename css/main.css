@@ -19,7 +19,7 @@
   padding: 10px;
   height: 200px; /* Should be removed. Only for demonstration */
   text-align: justify;
-  column-gap: 20px;
+  column-gap: 40px;
   background-color: #000000;
   color:#ffefcf;
 }

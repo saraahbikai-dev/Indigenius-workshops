@@ -107,6 +107,7 @@ ul.posts li {
 
 
 .btn {
-  background-color: 8daa99;
-  color: #ffefcf;
+  background-color: #ffefcf;
+  color: #8daa99;
+   align-content: center;
 }

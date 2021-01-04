@@ -37,6 +37,7 @@ body {
     width: 100%;
     background-color: #000000;
     margin: 10px auto;
+    
 }
 
 nav ul, footer ul {
@@ -123,4 +124,5 @@ ul.posts li {
 .container {
   height: 200px;
   position: relative   
+  align-content: center;
 }

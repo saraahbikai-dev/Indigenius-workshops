@@ -103,3 +103,10 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+
+
+btn {
+  background-color: 8daa99;
+  color: #ffefcf;
+}

@@ -20,7 +20,8 @@
   height: 200px; /* Should be removed. Only for demonstration */
   text-align: justify;
   column-gap: 20px;
-  
+  background-color: #000000;
+  color:#ffefcf;
 }
 
 /* Clear floats after the columns */

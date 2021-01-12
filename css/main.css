@@ -188,3 +188,8 @@ ul.posts li {
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
 
+  
+button {
+  margin: 0 auto;
+  display: block;
+}

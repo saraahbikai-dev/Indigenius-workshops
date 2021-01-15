@@ -17,7 +17,7 @@
 .column {
   float: left;
   width: 50%;
-  padding: 30px;
+  padding: 40px;
   height: 200px; /* Should be removed. Only for demonstration */
   text-align: justify;
   column-gap: 40px;
@@ -93,7 +93,7 @@ p {
     font-size: 15px;
     line-height: 1.4em;
     color: #ffefcf;
-    text-align: center;
+    text-align: left;
     font-family:'bahnschrift','Sans-Serif';
     
 }

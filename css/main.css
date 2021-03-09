@@ -21,7 +21,8 @@
   padding-left: 100px;
   text-align: justify;
   column-gap: 40px;
-  background-color: #000000;
+  background-color: #transparent;
+  opacity:0;
   color:#ffefcf;
 }
 

@@ -13,7 +13,7 @@
  
 }
 
-/* Create three equal columns that floats next to each other */
+/* Two equal columns that floats next to each other */
 .column {
   float: left;
   width: 50%;
@@ -21,7 +21,7 @@
   padding-left: 100px;
   text-align: justify;
   column-gap: 40px;
-  background-color: #transparent;
+  background-color: #000000;
   color:#ffefcf;
 }
 

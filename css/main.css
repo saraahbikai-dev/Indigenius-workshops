@@ -129,13 +129,13 @@ ul.posts li {
   border: 3px solid green;
 }
  
-
+  /*Border Radius Box around Paragraph */
 #rcorners2 {
   border-radius: 25px;
   border: 1px solid #73AD21;
   padding: 20px;
   width: 1200px;
-  height: 30px;
+  height: 300px;
 }
   container3 {
   height: 200px;
